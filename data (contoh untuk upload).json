@@ -1,0 +1,735 @@
+{
+  "data_pejabat": [
+    {
+      "nama": "Bupati A",
+      "nim": 12345,
+      "tanggal_lahir": "1980-05-15",
+      "alamat": "Kota Malang",
+      "skor_akuntabilitas": 75
+    },
+    {
+      "nama": "Bupati B",
+      "nim": 12346,
+      "tanggal_lahir": "1978-11-22",
+      "alamat": "Kota Surabaya",
+      "skor_akuntabilitas": 80
+    },
+    {
+      "nama": "Camat C",
+      "nim": 12347,
+      "tanggal_lahir": "1985-03-10",
+      "alamat": "Kecamatan Gresik",
+      "skor_akuntabilitas": 60
+    },
+    {
+      "nama": "Wali Kota D",
+      "nim": 12348,
+      "tanggal_lahir": "1982-07-08",
+      "alamat": "Kota Bandung",
+      "skor_akuntabilitas": 90
+    },
+    {
+      "nama": "Kepala Desa E",
+      "nim": 12349,
+      "tanggal_lahir": "1975-12-30",
+      "alamat": "Desa Sukamaju",
+      "skor_akuntabilitas": 55
+    },
+    {
+      "nama": "Bupati F",
+      "nim": 12350,
+      "tanggal_lahir": "1983-04-14",
+      "alamat": "Kota Yogyakarta",
+      "skor_akuntabilitas": 78
+    },
+    {
+      "nama": "Camat G",
+      "nim": 12351,
+      "tanggal_lahir": "1987-09-21",
+      "alamat": "Kecamatan Bogor",
+      "skor_akuntabilitas": 65
+    },
+    {
+      "nama": "Bupati H",
+      "nim": 12352,
+      "tanggal_lahir": "1979-01-05",
+      "alamat": "Kota Semarang",
+      "skor_akuntabilitas": 85
+    },
+    {
+      "nama": "Wali Kota I",
+      "nim": 12353,
+      "tanggal_lahir": "1981-06-18",
+      "alamat": "Kota Medan",
+      "skor_akuntabilitas": 70
+    },
+    {
+      "nama": "Kepala Desa J",
+      "nim": 12354,
+      "tanggal_lahir": "1984-02-25",
+      "alamat": "Desa Kebon Jeruk",
+      "skor_akuntabilitas": 68
+    },
+    {
+      "nama": "Bupati K",
+      "nim": 12355,
+      "tanggal_lahir": "1986-10-03",
+      "alamat": "Kota Makassar",
+      "skor_akuntabilitas": 82
+    },
+    {
+      "nama": "Camat L",
+      "nim": 12356,
+      "tanggal_lahir": "1977-08-12",
+      "alamat": "Kecamatan Denpasar",
+      "skor_akuntabilitas": 58
+    },
+    {
+      "nama": "Bupati M",
+      "nim": 12357,
+      "tanggal_lahir": "1988-04-19",
+      "alamat": "Kota Palembang",
+      "skor_akuntabilitas": 73
+    },
+    {
+      "nama": "Wali Kota N",
+      "nim": 12358,
+      "tanggal_lahir": "1980-11-27",
+      "alamat": "Kota Batam",
+      "skor_akuntabilitas": 88
+    },
+    {
+      "nama": "Kepala Desa O",
+      "nim": 12359,
+      "tanggal_lahir": "1982-03-08",
+      "alamat": "Desa Banyuwangi",
+      "skor_akuntabilitas": 62
+    },
+    {
+      "nama": "Bupati P",
+      "nim": 12360,
+      "tanggal_lahir": "1976-07-15",
+      "alamat": "Kota Cirebon",
+      "skor_akuntabilitas": 77
+    },
+    {
+      "nama": "Camat Q",
+      "nim": 12361,
+      "tanggal_lahir": "1989-05-22",
+      "alamat": "Kecamatan Depok",
+      "skor_akuntabilitas": 66
+    },
+    {
+      "nama": "Bupati R",
+      "nim": 12362,
+      "tanggal_lahir": "1984-12-09",
+      "alamat": "Kota Malang",
+      "skor_akuntabilitas": 81
+    },
+    {
+      "nama": "Wali Kota S",
+      "nim": 12363,
+      "tanggal_lahir": "1983-08-04",
+      "alamat": "Kota Jakarta",
+      "skor_akuntabilitas": 79
+    },
+    {
+      "nama": "Kepala Desa T",
+      "nim": 12364,
+      "tanggal_lahir": "1985-11-11",
+      "alamat": "Desa Pasuruan",
+      "skor_akuntabilitas": 59
+    },
+    {
+      "nama": "Bupati U",
+      "nim": 12365,
+      "tanggal_lahir": "1978-02-28",
+      "alamat": "Kota Solo",
+      "skor_akuntabilitas": 84
+    },
+    {
+      "nama": "Camat V",
+      "nim": 12366,
+      "tanggal_lahir": "1981-09-16",
+      "alamat": "Kecamatan Purwokerto",
+      "skor_akuntabilitas": 64
+    },
+    {
+      "nama": "Bupati W",
+      "nim": 12367,
+      "tanggal_lahir": "1987-06-30",
+      "alamat": "Kota Banjarmasin",
+      "skor_akuntabilitas": 76
+    },
+    {
+      "nama": "Wali Kota X",
+      "nim": 12368,
+      "tanggal_lahir": "1980-04-23",
+      "alamat": "Kota Manado",
+      "skor_akuntabilitas": 87
+    },
+    {
+      "nama": "Kepala Desa Y",
+      "nim": 12369,
+      "tanggal_lahir": "1983-07-17",
+      "alamat": "Desa Kediri",
+      "skor_akuntabilitas": 71
+    }
+  ],
+  "data_anggaran": [
+    {
+      "proyek": "Jalan Desa",
+      "tahun": 2024,
+      "jumlah": 500000000,
+      "realisasi": 60,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pembangunan SD",
+      "tahun": 2024,
+      "jumlah": 1000000000,
+      "realisasi": 80,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Irigen",
+      "tahun": 2024,
+      "jumlah": 300000000,
+      "realisasi": 45,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pembangunan Masjid",
+      "tahun": 2024,
+      "jumlah": 200000000,
+      "realisasi": 90,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pembangunan Rumah Sakit",
+      "tahun": 2024,
+      "jumlah": 1500000000,
+      "realisasi": 70,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Program Beasiswa",
+      "tahun": 2024,
+      "jumlah": 100000000,
+      "realisasi": 100,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pembangunan Jembatan",
+      "tahun": 2024,
+      "jumlah": 800000000,
+      "realisasi": 50,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Perbaikan Jaringan Listrik",
+      "tahun": 2024,
+      "jumlah": 400000000,
+      "realisasi": 75,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pembangunan Lapangan Olahraga",
+      "tahun": 2024,
+      "jumlah": 300000000,
+      "realisasi": 60,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Penyuluhan Pertanian",
+      "tahun": 2024,
+      "jumlah": 50000000,
+      "realisasi": 100,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pengadaan Traktor",
+      "tahun": 2024,
+      "jumlah": 250000000,
+      "realisasi": 85,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pembangunan Sekolah Menengah",
+      "tahun": 2024,
+      "jumlah": 1200000000,
+      "realisasi": 40,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pemeliharaan Jalan",
+      "tahun": 2024,
+      "jumlah": 180000000,
+      "realisasi": 95,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pembangunan Posyandu",
+      "tahun": 2024,
+      "jumlah": 70000000,
+      "realisasi": 70,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pengadaan Perahu Nelayan",
+      "tahun": 2024,
+      "jumlah": 150000000,
+      "realisasi": 65,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pembangunan Pusat Perdagangan",
+      "tahun": 2024,
+      "jumlah": 800000000,
+      "realisasi": 30,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Program Kesehatan Masyarakat",
+      "tahun": 2024,
+      "jumlah": 90000000,
+      "realisasi": 100,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pembangunan Terminal",
+      "tahun": 2024,
+      "jumlah": 500000000,
+      "realisasi": 55,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pembangunan Tempat Parkir",
+      "tahun": 2024,
+      "jumlah": 200000000,
+      "realisasi": 80,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pengadaan Ambulans",
+      "tahun": 2024,
+      "jumlah": 400000000,
+      "realisasi": 90,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pembangunan Gedung Kantor",
+      "tahun": 2024,
+      "jumlah": 600000000,
+      "realisasi": 70,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Program Pelatihan Kerja",
+      "tahun": 2024,
+      "jumlah": 120000000,
+      "realisasi": 85,
+      "status": "selesai"
+    },
+    {
+      "proyek": "Pembangunan Taman Rekreasi",
+      "tahun": 2024,
+      "jumlah": 250000000,
+      "realisasi": 60,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pengadaan Alat Pertanian",
+      "tahun": 2024,
+      "jumlah": 80000000,
+      "realisasi": 75,
+      "status": "berjalan"
+    },
+    {
+      "proyek": "Pelatihan Digital Desa",
+      "tahun": 2024,
+      "jumlah": 60000000,
+      "realisasi": 95,
+      "status": "selesai"
+    }
+  ],
+  "data_warga": [
+    {
+      "nama": "Rudi",
+      "desa": "Suka Maju",
+      "feedback": "Jembatan belum selesai",
+      "bukti": "foto.jpg",
+      "rating": 2
+    },
+    {
+      "nama": "Andi",
+      "desa": "Cikur",
+      "feedback": "Jalan rusak",
+      "bukti": "video.mp4",
+      "rating": 1
+    },
+    {
+      "nama": "Budi",
+      "desa": "Madiun",
+      "feedback": "Proyek selesai tepat waktu",
+      "bukti": "null",
+      "rating": 5
+    },
+    {
+      "nama": "Dewi",
+      "desa": "Banyuwangi",
+      "feedback": "Masih ada tanah longsor",
+      "bukti": "foto.jpg",
+      "rating": 3
+    },
+    {
+      "nama": "Fajar",
+      "desa": "Gresik",
+      "feedback": "Air bersih belum masuk",
+      "bukti": "foto.jpg",
+      "rating": 2
+    },
+    {
+      "nama": "Nina",
+      "desa": "Surabaya",
+      "feedback": "Laporan pejabat tidak akurat",
+      "bukti": "null",
+      "rating": 1
+    },
+    {
+      "nama": "Rani",
+      "desa": "Bandung",
+      "feedback": "Bangunan sekolah bagus",
+      "bukti": "foto.jpg",
+      "rating": 5
+    },
+    {
+      "nama": "Siti",
+      "desa": "Yogyakarta",
+      "feedback": "Proyek terlalu lama",
+      "bukti": "null",
+      "rating": 2
+    },
+    {
+      "nama": "Tono",
+      "desa": "Jakarta",
+      "feedback": "Anggaran tidak transparan",
+      "bukti": "null",
+      "rating": 1
+    },
+    {
+      "nama": "Umi",
+      "desa": "Malang",
+      "feedback": "Jalan baru mulus",
+      "bukti": "foto.jpg",
+      "rating": 4
+    },
+    {
+      "nama": "Veni",
+      "desa": "Semarang",
+      "feedback": "Ada korupsi?",
+      "bukti": "null",
+      "rating": 1
+    },
+    {
+      "nama": "Wandi",
+      "desa": "Medan",
+      "feedback": "Proyek belum dimulai",
+      "bukti": "foto.jpg",
+      "rating": 2
+    },
+    {
+      "nama": "Xena",
+      "desa": "Palembang",
+      "feedback": "Pekerja tidak profesional",
+      "bukti": "video.mp4",
+      "rating": 3
+    },
+    {
+      "nama": "Yudi",
+      "desa": "Makassar",
+      "feedback": "Terima kasih atas pembangunan",
+      "bukti": "null",
+      "rating": 5
+    },
+    {
+      "nama": "Zaki",
+      "desa": "Banjarmasin",
+      "feedback": "Masih banyak kerusakan",
+      "bukti": "foto.jpg",
+      "rating": 2
+    },
+    {
+      "nama": "Ade",
+      "desa": "Batam",
+      "feedback": "Proyek selesai tapi belum difungsikan",
+      "bukti": "null",
+      "rating": 3
+    },
+    {
+      "nama": "Bejo",
+      "desa": "Solo",
+      "feedback": "Pejabat tidak responsif",
+      "bukti": "null",
+      "rating": 1
+    },
+    {
+      "nama": "Citra",
+      "desa": "Cirebon",
+      "feedback": "Bagus tapi kurang perawatan",
+      "bukti": "foto.jpg",
+      "rating": 4
+    },
+    {
+      "nama": "Deni",
+      "desa": "Depok",
+      "feedback": "Proyek cepat selesai",
+      "bukti": "null",
+      "rating": 5
+    },
+    {
+      "nama": "Eka",
+      "desa": "Purwokerto",
+      "feedback": "Harap dilanjutkan",
+      "bukti": "null",
+      "rating": 4
+    },
+    {
+      "nama": "Fira",
+      "desa": "Manado",
+      "feedback": "Masih banyak keluhan",
+      "bukti": "foto.jpg",
+      "rating": 2
+    },
+    {
+      "nama": "Gita",
+      "desa": "Kediri",
+      "feedback": "Kualitas bangunan buruk",
+      "bukti": "video.mp4",
+      "rating": 1
+    },
+    {
+      "nama": "Hendra",
+      "desa": "Bogor",
+      "feedback": "Penggunaan dana tidak transparan",
+      "bukti": "null",
+      "rating": 2
+    },
+    {
+      "nama": "Ika",
+      "desa": "Denpasar",
+      "feedback": "Proyek sangat membantu",
+      "bukti": "foto.jpg",
+      "rating": 5
+    },
+    {
+      "nama": "Joko",
+      "desa": "Balikpapan",
+      "feedback": "Perlu peningkatan kualitas",
+      "bukti": "null",
+      "rating": 3
+    }
+  ],
+  "data_proyek": [
+    {
+      "id": 1,
+      "nama": "Pembangunan SD",
+      "lokasi": "Desa Cikur",
+      "anggaran": 1000000000,
+      "progress": 80,
+      "kategori": "pendidikan"
+    },
+    {
+      "id": 2,
+      "nama": "Jembatan Desa",
+      "lokasi": "Desa Suka Maju",
+      "anggaran": 800000000,
+      "progress": 50,
+      "kategori": "infrastruktur"
+    },
+    {
+      "id": 3,
+      "nama": "Pembangunan Masjid",
+      "lokasi": "Desa Banyuwangi",
+      "anggaran": 200000000,
+      "progress": 90,
+      "kategori": "sosial"
+    },
+    {
+      "id": 4,
+      "nama": "Pembangunan Jalan",
+      "lokasi": "Kota Malang",
+      "anggaran": 500000000,
+      "progress": 60,
+      "kategori": "infrastruktur"
+    },
+    {
+      "id": 5,
+      "nama": "Pembangunan RS",
+      "lokasi": "Kota Surabaya",
+      "anggaran": 1500000000,
+      "progress": 70,
+      "kategori": "kesehatan"
+    },
+    {
+      "id": 6,
+      "nama": "Program Beasiswa",
+      "lokasi": "Kota Jakarta",
+      "anggaran": 100000000,
+      "progress": 100,
+      "kategori": "pendidikan"
+    },
+    {
+      "id": 7,
+      "nama": "Pembangunan Lapangan",
+      "lokasi": "Desa Madiun",
+      "anggaran": 300000000,
+      "progress": 60,
+      "kategori": "rekreasi"
+    },
+    {
+      "id": 8,
+      "nama": "Perbaikan Listrik",
+      "lokasi": "Kota Bandung",
+      "anggaran": 400000000,
+      "progress": 75,
+      "kategori": "infrastruktur"
+    },
+    {
+      "id": 9,
+      "nama": "Pembangunan Terminal",
+      "lokasi": "Kota Yogyakarta",
+      "anggaran": 500000000,
+      "progress": 55,
+      "kategori": "transportasi"
+    },
+    {
+      "id": 10,
+      "nama": "Pembangunan Posyandu",
+      "lokasi": "Desa Gresik",
+      "anggaran": 70000000,
+      "progress": 70,
+      "kategori": "kesehatan"
+    },
+    {
+      "id": 11,
+      "nama": "Pengadaan Traktor",
+      "lokasi": "Desa Cirebon",
+      "anggaran": 250000000,
+      "progress": 85,
+      "kategori": "pertanian"
+    },
+    {
+      "id": 12,
+      "nama": "Pembangunan Pusat Perdagangan",
+      "lokasi": "Kota Palembang",
+      "anggaran": 800000000,
+      "progress": 30,
+      "kategori": "ekonomi"
+    },
+    {
+      "id": 13,
+      "nama": "Program Kesehatan",
+      "lokasi": "Kota Makassar",
+      "anggaran": 90000000,
+      "progress": 100,
+      "kategori": "kesehatan"
+    },
+    {
+      "id": 14,
+      "nama": "Pembangunan Gedung Kantor",
+      "lokasi": "Kota Banjarmasin",
+      "anggaran": 600000000,
+      "progress": 70,
+      "kategori": "pemerintahan"
+    },
+    {
+      "id": 15,
+      "nama": "Pelatihan Kerja",
+      "lokasi": "Kota Medan",
+      "anggaran": 120000000,
+      "progress": 85,
+      "kategori": "pelatihan"
+    },
+    {
+      "id": 16,
+      "nama": "Pembangunan Taman",
+      "lokasi": "Desa Depok",
+      "anggaran": 250000000,
+      "progress": 60,
+      "kategori": "rekreasi"
+    },
+    {
+      "id": 17,
+      "nama": "Pengadaan Alat Pertanian",
+      "lokasi": "Desa Purwokerto",
+      "anggaran": 80000000,
+      "progress": 75,
+      "kategori": "pertanian"
+    },
+    {
+      "id": 18,
+      "nama": "Pembangunan Sekolah Menengah",
+      "lokasi": "Desa Manado",
+      "anggaran": 1200000000,
+      "progress": 40,
+      "kategori": "pendidikan"
+    },
+    {
+      "id": 19,
+      "nama": "Pembangunan Pos Polisi",
+      "lokasi": "Kota Solo",
+      "anggaran": 300000000,
+      "progress": 90,
+      "kategori": "keamanan"
+    },
+    {
+      "id": 20,
+      "nama": "Pembangunan Irigen",
+      "lokasi": "Desa Kediri",
+      "anggaran": 300000000,
+      "progress": 45,
+      "kategori": "pertanian"
+    },
+    {
+      "id": 21,
+      "nama": "Pembangunan Jaringan Air",
+      "lokasi": "Desa Bogor",
+      "anggaran": 200000000,
+      "progress": 80,
+      "kategori": "infrastruktur"
+    },
+    {
+      "id": 22,
+      "nama": "Pembangunan Pusat Informasi",
+      "lokasi": "Kota Cirebon",
+      "anggaran": 150000000,
+      "progress": 65,
+      "kategori": "teknologi"
+    },
+    {
+      "id": 23,
+      "nama": "Pembangunan Penginapan",
+      "lokasi": "Desa Bali",
+      "anggaran": 400000000,
+      "progress": 70,
+      "kategori": "pariwisata"
+    },
+    {
+      "id": 24,
+      "nama": "Pembangunan Stasiun",
+      "lokasi": "Kota Bandung",
+      "anggaran": 1000000000,
+      "progress": 50,
+      "kategori": "transportasi"
+    },
+    {
+      "id": 25,
+      "nama": "Pembangunan Komunitas Digital",
+      "lokasi": "Kota Jakarta",
+      "anggaran": 200000000,
+      "progress": 95,
+      "kategori": "digital"
+    }
+  ]
+}

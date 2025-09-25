@@ -1,0 +1,101 @@
+__sheet,nama,nim,tanggal_lahir,alamat,skor_akuntabilitas,proyek,tahun,jumlah,realisasi,status,desa,feedback,bukti,rating,id,lokasi,anggaran,progress,kategori
+data_pejabat,Bupati A,12345.0,1980-05-15,Kota Malang,75.0,,,,,,,,,,,,,,
+data_pejabat,Bupati B,12346.0,1978-11-22,Kota Surabaya,80.0,,,,,,,,,,,,,,
+data_pejabat,Camat C,12347.0,1985-03-10,Kecamatan Gresik,60.0,,,,,,,,,,,,,,
+data_pejabat,Wali Kota D,12348.0,1982-07-08,Kota Bandung,90.0,,,,,,,,,,,,,,
+data_pejabat,Kepala Desa E,12349.0,1975-12-30,Desa Sukamaju,55.0,,,,,,,,,,,,,,
+data_pejabat,Bupati F,12350.0,1983-04-14,Kota Yogyakarta,78.0,,,,,,,,,,,,,,
+data_pejabat,Camat G,12351.0,1987-09-21,Kecamatan Bogor,65.0,,,,,,,,,,,,,,
+data_pejabat,Bupati H,12352.0,1979-01-05,Kota Semarang,85.0,,,,,,,,,,,,,,
+data_pejabat,Wali Kota I,12353.0,1981-06-18,Kota Medan,70.0,,,,,,,,,,,,,,
+data_pejabat,Kepala Desa J,12354.0,1984-02-25,Desa Kebon Jeruk,68.0,,,,,,,,,,,,,,
+data_pejabat,Bupati K,12355.0,1986-10-03,Kota Makassar,82.0,,,,,,,,,,,,,,
+data_pejabat,Camat L,12356.0,1977-08-12,Kecamatan Denpasar,58.0,,,,,,,,,,,,,,
+data_pejabat,Bupati M,12357.0,1988-04-19,Kota Palembang,73.0,,,,,,,,,,,,,,
+data_pejabat,Wali Kota N,12358.0,1980-11-27,Kota Batam,88.0,,,,,,,,,,,,,,
+data_pejabat,Kepala Desa O,12359.0,1982-03-08,Desa Banyuwangi,62.0,,,,,,,,,,,,,,
+data_pejabat,Bupati P,12360.0,1976-07-15,Kota Cirebon,77.0,,,,,,,,,,,,,,
+data_pejabat,Camat Q,12361.0,1989-05-22,Kecamatan Depok,66.0,,,,,,,,,,,,,,
+data_pejabat,Bupati R,12362.0,1984-12-09,Kota Malang,81.0,,,,,,,,,,,,,,
+data_pejabat,Wali Kota S,12363.0,1983-08-04,Kota Jakarta,79.0,,,,,,,,,,,,,,
+data_pejabat,Kepala Desa T,12364.0,1985-11-11,Desa Pasuruan,59.0,,,,,,,,,,,,,,
+data_pejabat,Bupati U,12365.0,1978-02-28,Kota Solo,84.0,,,,,,,,,,,,,,
+data_pejabat,Camat V,12366.0,1981-09-16,Kecamatan Purwokerto,64.0,,,,,,,,,,,,,,
+data_pejabat,Bupati W,12367.0,1987-06-30,Kota Banjarmasin,76.0,,,,,,,,,,,,,,
+data_pejabat,Wali Kota X,12368.0,1980-04-23,Kota Manado,87.0,,,,,,,,,,,,,,
+data_pejabat,Kepala Desa Y,12369.0,1983-07-17,Desa Kediri,71.0,,,,,,,,,,,,,,
+data_anggaran,,,,,,Jalan Desa,2024.0,500000000.0,60.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pembangunan SD,2024.0,1000000000.0,80.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Irigen,2024.0,300000000.0,45.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Masjid,2024.0,200000000.0,90.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Rumah Sakit,2024.0,1500000000.0,70.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Program Beasiswa,2024.0,100000000.0,100.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Jembatan,2024.0,800000000.0,50.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Perbaikan Jaringan Listrik,2024.0,400000000.0,75.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Lapangan Olahraga,2024.0,300000000.0,60.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Penyuluhan Pertanian,2024.0,50000000.0,100.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pengadaan Traktor,2024.0,250000000.0,85.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Sekolah Menengah,2024.0,1200000000.0,40.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pemeliharaan Jalan,2024.0,180000000.0,95.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Posyandu,2024.0,70000000.0,70.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pengadaan Perahu Nelayan,2024.0,150000000.0,65.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Pusat Perdagangan,2024.0,800000000.0,30.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Program Kesehatan Masyarakat,2024.0,90000000.0,100.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Terminal,2024.0,500000000.0,55.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Tempat Parkir,2024.0,200000000.0,80.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pengadaan Ambulans,2024.0,400000000.0,90.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Gedung Kantor,2024.0,600000000.0,70.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Program Pelatihan Kerja,2024.0,120000000.0,85.0,selesai,,,,,,,,,
+data_anggaran,,,,,,Pembangunan Taman Rekreasi,2024.0,250000000.0,60.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pengadaan Alat Pertanian,2024.0,80000000.0,75.0,berjalan,,,,,,,,,
+data_anggaran,,,,,,Pelatihan Digital Desa,2024.0,60000000.0,95.0,selesai,,,,,,,,,
+data_warga,Rudi,,,,,,,,,,Suka Maju,Jembatan belum selesai,foto.jpg,2.0,,,,,
+data_warga,Andi,,,,,,,,,,Cikur,Jalan rusak,video.mp4,1.0,,,,,
+data_warga,Budi,,,,,,,,,,Madiun,Proyek selesai tepat waktu,null,5.0,,,,,
+data_warga,Dewi,,,,,,,,,,Banyuwangi,Masih ada tanah longsor,foto.jpg,3.0,,,,,
+data_warga,Fajar,,,,,,,,,,Gresik,Air bersih belum masuk,foto.jpg,2.0,,,,,
+data_warga,Nina,,,,,,,,,,Surabaya,Laporan pejabat tidak akurat,null,1.0,,,,,
+data_warga,Rani,,,,,,,,,,Bandung,Bangunan sekolah bagus,foto.jpg,5.0,,,,,
+data_warga,Siti,,,,,,,,,,Yogyakarta,Proyek terlalu lama,null,2.0,,,,,
+data_warga,Tono,,,,,,,,,,Jakarta,Anggaran tidak transparan,null,1.0,,,,,
+data_warga,Umi,,,,,,,,,,Malang,Jalan baru mulus,foto.jpg,4.0,,,,,
+data_warga,Veni,,,,,,,,,,Semarang,Ada korupsi?,null,1.0,,,,,
+data_warga,Wandi,,,,,,,,,,Medan,Proyek belum dimulai,foto.jpg,2.0,,,,,
+data_warga,Xena,,,,,,,,,,Palembang,Pekerja tidak profesional,video.mp4,3.0,,,,,
+data_warga,Yudi,,,,,,,,,,Makassar,Terima kasih atas pembangunan,null,5.0,,,,,
+data_warga,Zaki,,,,,,,,,,Banjarmasin,Masih banyak kerusakan,foto.jpg,2.0,,,,,
+data_warga,Ade,,,,,,,,,,Batam,Proyek selesai tapi belum difungsikan,null,3.0,,,,,
+data_warga,Bejo,,,,,,,,,,Solo,Pejabat tidak responsif,null,1.0,,,,,
+data_warga,Citra,,,,,,,,,,Cirebon,Bagus tapi kurang perawatan,foto.jpg,4.0,,,,,
+data_warga,Deni,,,,,,,,,,Depok,Proyek cepat selesai,null,5.0,,,,,
+data_warga,Eka,,,,,,,,,,Purwokerto,Harap dilanjutkan,null,4.0,,,,,
+data_warga,Fira,,,,,,,,,,Manado,Masih banyak keluhan,foto.jpg,2.0,,,,,
+data_warga,Gita,,,,,,,,,,Kediri,Kualitas bangunan buruk,video.mp4,1.0,,,,,
+data_warga,Hendra,,,,,,,,,,Bogor,Penggunaan dana tidak transparan,null,2.0,,,,,
+data_warga,Ika,,,,,,,,,,Denpasar,Proyek sangat membantu,foto.jpg,5.0,,,,,
+data_warga,Joko,,,,,,,,,,Balikpapan,Perlu peningkatan kualitas,null,3.0,,,,,
+data_proyek,Pembangunan SD,,,,,,,,,,,,,,1.0,Desa Cikur,1000000000.0,80.0,pendidikan
+data_proyek,Jembatan Desa,,,,,,,,,,,,,,2.0,Desa Suka Maju,800000000.0,50.0,infrastruktur
+data_proyek,Pembangunan Masjid,,,,,,,,,,,,,,3.0,Desa Banyuwangi,200000000.0,90.0,sosial
+data_proyek,Pembangunan Jalan,,,,,,,,,,,,,,4.0,Kota Malang,500000000.0,60.0,infrastruktur
+data_proyek,Pembangunan RS,,,,,,,,,,,,,,5.0,Kota Surabaya,1500000000.0,70.0,kesehatan
+data_proyek,Program Beasiswa,,,,,,,,,,,,,,6.0,Kota Jakarta,100000000.0,100.0,pendidikan
+data_proyek,Pembangunan Lapangan,,,,,,,,,,,,,,7.0,Desa Madiun,300000000.0,60.0,rekreasi
+data_proyek,Perbaikan Listrik,,,,,,,,,,,,,,8.0,Kota Bandung,400000000.0,75.0,infrastruktur
+data_proyek,Pembangunan Terminal,,,,,,,,,,,,,,9.0,Kota Yogyakarta,500000000.0,55.0,transportasi
+data_proyek,Pembangunan Posyandu,,,,,,,,,,,,,,10.0,Desa Gresik,70000000.0,70.0,kesehatan
+data_proyek,Pengadaan Traktor,,,,,,,,,,,,,,11.0,Desa Cirebon,250000000.0,85.0,pertanian
+data_proyek,Pembangunan Pusat Perdagangan,,,,,,,,,,,,,,12.0,Kota Palembang,800000000.0,30.0,ekonomi
+data_proyek,Program Kesehatan,,,,,,,,,,,,,,13.0,Kota Makassar,90000000.0,100.0,kesehatan
+data_proyek,Pembangunan Gedung Kantor,,,,,,,,,,,,,,14.0,Kota Banjarmasin,600000000.0,70.0,pemerintahan
+data_proyek,Pelatihan Kerja,,,,,,,,,,,,,,15.0,Kota Medan,120000000.0,85.0,pelatihan
+data_proyek,Pembangunan Taman,,,,,,,,,,,,,,16.0,Desa Depok,250000000.0,60.0,rekreasi
+data_proyek,Pengadaan Alat Pertanian,,,,,,,,,,,,,,17.0,Desa Purwokerto,80000000.0,75.0,pertanian
+data_proyek,Pembangunan Sekolah Menengah,,,,,,,,,,,,,,18.0,Desa Manado,1200000000.0,40.0,pendidikan
+data_proyek,Pembangunan Pos Polisi,,,,,,,,,,,,,,19.0,Kota Solo,300000000.0,90.0,keamanan
+data_proyek,Pembangunan Irigen,,,,,,,,,,,,,,20.0,Desa Kediri,300000000.0,45.0,pertanian
+data_proyek,Pembangunan Jaringan Air,,,,,,,,,,,,,,21.0,Desa Bogor,200000000.0,80.0,infrastruktur
+data_proyek,Pembangunan Pusat Informasi,,,,,,,,,,,,,,22.0,Kota Cirebon,150000000.0,65.0,teknologi
+data_proyek,Pembangunan Penginapan,,,,,,,,,,,,,,23.0,Desa Bali,400000000.0,70.0,pariwisata
+data_proyek,Pembangunan Stasiun,,,,,,,,,,,,,,24.0,Kota Bandung,1000000000.0,50.0,transportasi
+data_proyek,Pembangunan Komunitas Digital,,,,,,,,,,,,,,25.0,Kota Jakarta,200000000.0,95.0,digital
